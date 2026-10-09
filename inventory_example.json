@@ -1,0 +1,7 @@
+{
+  "date": "2026-01-04",
+  "median_forecast": 69.96,
+  "upper_quantile_forecast": 73.0,
+  "illustrative_target_units_for_next_day": 73,
+  "caveat": "Illustration only; does not account for current stock, lead time, or costs."
+}

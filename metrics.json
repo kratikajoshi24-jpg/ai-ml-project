@@ -1,0 +1,11 @@
+{
+  "dataset": "synthetic daily demand (illustration only)",
+  "train_rows": 857,
+  "test_rows": 215,
+  "mae_median_forecast": 4.0341,
+  "rmse_median_forecast": 5.0463,
+  "q10_q90_interval_nominal_coverage": 0.8,
+  "empirical_interval_coverage": 0.7209,
+  "average_interval_width": 12.0898,
+  "note": "Synthetic demonstration data; metrics are not real-world retail results."
+}
